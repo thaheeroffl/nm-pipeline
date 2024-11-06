@@ -53,7 +53,7 @@
     </dependency>
   </dependencies>
 
-   <distributionManagement>
+<distributionManagement>
     <repository>
         <id>your-repo-id</id>
         <url>https://your.repository.url</url>
