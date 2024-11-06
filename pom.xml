@@ -55,7 +55,7 @@
 
 <distributionManagement>
     <repository>
-        <id></id>
+        <id>nm-pipeline</id>
         <url>https://github.com/thaheeroffl/nm-pipeline.git</url>
     </repository>
 </distributionManagement>
