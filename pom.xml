@@ -60,4 +60,16 @@
     </repository>
 </distributionManagement>
 
+  <distributionManagement>
+    <repository>
+        <id>nm-pipeline</id> <!-- This is a unique ID for your repository -->
+        <url>https://github.com/thaheeroffl/nm-pipeline.git</url> <!-- Replace with your GitHub repository URL -->
+    </repository>
+    <snapshotRepository>
+        <id><nm-pipeline/id> <!-- This is a unique ID for your snapshot repository -->
+        <url>https://github.com/thaheeroffl/nm-pipeline.git</url> <!-- Replace with your GitHub repository URL -->
+    </snapshotRepository>
+</distributionManagement>
+
+
 </project>
