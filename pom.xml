@@ -41,13 +41,7 @@
     </plugins>
 </build>
 
-  <distributionManagement>
-    <repository>
-        <id>your-repo-id</id>
-        <url>https://your.repository.url</url>
-    </repository>
-</distributionManagement>
-
+ 
 
 
   <dependencies>
@@ -58,4 +52,12 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+   <distributionManagement>
+    <repository>
+        <id>your-repo-id</id>
+        <url>https://your.repository.url</url>
+    </repository>
+</distributionManagement>
+
 </project>
