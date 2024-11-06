@@ -55,8 +55,8 @@
 
 <distributionManagement>
     <repository>
-        <id>your-repo-id</id>
-        <url>https://your.repository.url</url>
+        <id></id>
+        <url>https://github.com/thaheeroffl/nm-pipeline.git</url>
     </repository>
 </distributionManagement>
 
