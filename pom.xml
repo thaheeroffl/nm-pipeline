@@ -41,6 +41,14 @@
     </plugins>
 </build>
 
+  <distributionManagement>
+    <repository>
+        <id>your-repo-id</id>
+        <url>https://your.repository.url</url>
+    </repository>
+</distributionManagement>
+
+
 
   <dependencies>
     <dependency>
