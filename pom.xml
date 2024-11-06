@@ -53,6 +53,13 @@
     </dependency>
   </dependencies>
 
+  
+<distributionManagement>
+    <repository>
+        <id>nm-pipeline</id>
+        <url>https://github.com/thaheeroffl/nm-pipeline.git/</url>
+    </repository>
+</distributionManagement>
 
 
 
